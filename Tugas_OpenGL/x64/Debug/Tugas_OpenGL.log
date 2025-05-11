@@ -1,0 +1,11 @@
+﻿  Main.cpp
+C:\Users\yahya\OneDrive\Documents\Kuliah\TVG\Setelah-UTS\Tugas OpenGL\Tugas_OpenGL\Main.cpp(233,39): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\yahya\OneDrive\Documents\Kuliah\TVG\Setelah-UTS\Tugas OpenGL\Tugas_OpenGL\Main.cpp(276,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\yahya\OneDrive\Documents\Kuliah\TVG\Setelah-UTS\Tugas OpenGL\Tugas_OpenGL\Main.cpp(277,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\yahya\OneDrive\Documents\Kuliah\TVG\Setelah-UTS\Tugas OpenGL\Tugas_OpenGL\Main.cpp(281,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\yahya\OneDrive\Documents\Kuliah\TVG\Setelah-UTS\Tugas OpenGL\Tugas_OpenGL\Main.cpp(282,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\yahya\OneDrive\Documents\Kuliah\TVG\Setelah-UTS\Tugas OpenGL\Tugas_OpenGL\Main.cpp(283,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\yahya\OneDrive\Documents\Kuliah\TVG\Setelah-UTS\Tugas OpenGL\Tugas_OpenGL\Main.cpp(284,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\yahya\OneDrive\Documents\Kuliah\TVG\Setelah-UTS\Tugas OpenGL\Tugas_OpenGL\Main.cpp(377,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Tugas_OpenGL.vcxproj -> C:\Users\yahya\OneDrive\Documents\Kuliah\TVG\Setelah-UTS\Tugas OpenGL\Tugas_OpenGL\x64\Debug\Tugas_OpenGL.exe

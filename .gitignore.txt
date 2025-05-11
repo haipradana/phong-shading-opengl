@@ -1,0 +1,22 @@
+# Visual Studio artifacts
+.vs/
+*.vcxproj.user
+*.vcxproj.filters
+
+# Build outputs
+*.exe
+*.pdb
+*.obj
+*.ipch
+*.ilk
+*.log
+
+# Output folders
+x64/
+Debug/
+Release/
+
+# Other
+*.suo
+*.user
+*.cache
